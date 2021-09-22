@@ -21,14 +21,17 @@
 .GERALD {
     color:red;
 }
-.MRS.ALLONBY{
+.MRSALLONBY{
     color: lightpink;
 }
-.LADY HUNSTANTON{
+.LADYHUNSTANTON{
     color:rgb(204, 50, 50);
 }
 .ALICE{
     color:cyan
+}
+.MRSARBUTHNOT{
+    color:lightseagreen;
 }
 table{
     border:1px solid black;
