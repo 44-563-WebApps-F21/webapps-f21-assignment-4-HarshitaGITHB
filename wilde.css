@@ -30,3 +30,48 @@
 .ALICE{
     color:cyan
 }
+table{
+    border:1px solid black;
+    padding: 40px 35px 55px;
+    margin: 20px 50px 70px 100px;
+    width:60%;
+}
+th{
+    color: black;
+    border: 1px solid black;
+    text-align: center;
+    background-color:lightcoral;
+}
+td{
+    color:rgb(62, 75, 153);
+    border: 1px solid black;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color: rgb(131, 86, 127);
+}
+.name:hover{
+    text-shadow: 3px 4px 5px rgba(36, 3, 3, 0.822);
+    color:rgb(0, 195, 255);
+    filter: blur(4px);
+    border: solid 2px rgb(63, 55, 55);
+}
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    color:rgb(75, 16, 16);
+    background-color:violet;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:6px;
+    color: rgba(141, 141, 47, 0.911);
+}
+ul.navbar-horizontal a:hover {
+    background-color: blue;
+    color:green;
+}
