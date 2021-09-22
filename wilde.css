@@ -53,3 +53,9 @@ td{
 tr:nth-child(even) {
     background-color: rgb(131, 86, 127);
 }
+.name:hover{
+    text-shadow: 3px 4px 5px rgba(36, 3, 3, 0.822);
+    color:rgb(0, 195, 255);
+    filter: blur(4px);
+    border: solid 2px rgb(63, 55, 55);
+}
